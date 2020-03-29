@@ -1,5 +1,5 @@
 /* @flow */
-
+// vue的全局api
 import config from '../config'
 import { initUse } from './use'
 import { initMixin } from './mixin'
